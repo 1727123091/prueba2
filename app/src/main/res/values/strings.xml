@@ -1,0 +1,192 @@
+<resources>
+    <string name="app_name">Tracking Covid</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Covid Tracking</string>
+    <string name="nav_header_subtitle">Tratamiento del Covid</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!-- String de Ventanas de ayuda -->
+    <string name="ayuda1">Cada seccion esta segun su patologia o enfermedad ya que los sintomas varian segun como se encuentre
+    tu sistema inmunologico o si posee un tipo de enfermedad. Por eso mediante la informacion recopilada estan divididas las indicaciones</string>
+
+    <!-- String de Card View Embarazadas -->
+    <string name="title_activity_instrucciones">InstruccionesActivity</string>
+    <string name="tab_text_1">Instruccion1</string>
+    <string name="sintoma4">Si presentas algunos de estos sintomas no te automediques acercate a la casa de salud mas cercana y espera el diagnostico de un profesional para el bienestar de la mamá y el hijo.</string>
+    <string name="sintoma3">Dolor en el pecho</string>
+    <string name="sintoma2">Varios dias de Fiebre alta de 39º</string>
+    <string name="sintoma1">Se presentara el caso de una pasciente mujer embarazada de 32 años que le dio el covid estando en estado de gestacion</string>
+
+    <!-- String de Card View Generales -->
+    <string name="title_activity_insttucciones_generales">InstruccionesGenerales</string>
+    <string name="tituloGeneral">Genera</string>
+    <string name="tituloGeneral1">Genera1</string>
+    <string name="tituloGeneral2">Genera2</string>
+    <string name="tituloGeneral3">Genera3</string>
+    <string name="tituloGeneral4">Genera4</string>
+    <string name="tituloGeneral5">Genera5</string>
+    <string name="tituloGeneral6">Genera6</string>
+    <string name="sintomaGenral1">Fiebre</string>
+    <string name="sintomaGenral2">Tos Seca</string>
+    <string name="sintomaGenral3">Descripcion 3</string>
+    <string name="sintomaGenral4">Descripcion 4</string>
+
+    <!-- String de Card View Tuberculosis -->
+    <string name="title_activity_instrucciones_tuberculosis">InstruccionesTuberculosis</string>
+    <string name="tituloT1">Tuberculosis1</string>
+    <string name="tituloT2">Tuberculosis2</string>
+    <string name="tituloT3">Tuberculosis3</string>
+    <string name="tituloT4">Tuberculosis4</string>
+    <string name="sintomaT1">Se dara a conocer el caso de una pasciente de 14 años que tenia Tuberculosis Extrapulmonar que fue diagnosticada de Covid</string>
+    <string name="sintomaT2">Presento dolor de garganta durante varios dias</string>
+    <string name="sintomaT3">Malestar en el cuerpo muy leve por varios dias</string>
+    <string name="sintomaT4">En los chequeos que se realizaba periodicamente por su neumonia se pudo verificar que se habia contagiado pero por consecuencia del tratamiento
+    que ya se estaba realizando se pudo diagnosticar que fue una pasciente asistomatica que no presento sintomas pero que podia contagiar.</string>
+
+    <!-- String de Card View Hipertenso -->
+    <string name="title_activity_instrucciones_hipertenso">InstruccionesHipertenso</string>
+    <string name="tituloH1">Hipertenso1</string>
+    <string name="tituloH2">Hipertenso2</string>
+    <string name="tituloH3">Hipertenso3</string>
+    <string name="tituloH4">Hipertenso4</string>
+    <string name="sintomaH1">En este caso se dara a conocer un pasciente Hipertenso de 36 años que fue diagnosticado con covid </string>
+    <string name="sintomaH2">Descripcion 2</string>
+    <string name="sintomaH3">Descripcion 3</string>
+    <string name="sintomaH4">Una vez ya realizado el examen y asesiorarse que si tiene el virus se comenzo con el aislamiento domiciliario</string>
+
+    <!-- String de Card View Tratamiento / Embarazada -->
+    <string name="title_activity_tratamiento_instrucciones_embarazada">
+        TratamientoInstruccionesEmbarazada
+    </string>
+    <string name="TIembarazo1">TratamientoEmbarazo1</string>
+    <string name="TIembarazo2">TratamientoEmbarazo2</string>
+    <string name="TIembarazo3">TTratamientoEmbarazo3</string>
+    <string name="TIembarazo4">TratamientoEmbarazo4</string>
+    <string name="TIembarazodesc1">Descripcion 1</string>
+    <string name="TIembarazodesc2">Descripcion 2</string>
+    <string name="TIembarazodesc3">Descripcion 3</string>
+    <string name="TIembarazodesc4">Descripcion 4</string>
+
+    <!-- String de Card View Tratamiento / General -->
+    <string name="title_activity_tratamiento_instrucciones_general">
+        TratamientoInstruccionesGeneral
+    </string>
+    <string name="TIgeneral1">TratamientoGeneral1</string>
+    <string name="TIgeneral2">TratamientoGeneral2</string>
+    <string name="TIgeneral3">TratamientoGeneral3</string>
+    <string name="TIgeneral4">TratamientoGeneral4</string>
+    <string name="TIgeneraldesc1">Hasta la fecha no se dispone de vacuna para combatir las infecciones por coronavirus,
+    aunque hay varias frentes al SARS-CoV-2 en distintas fases de investigacion. Por eso, conocer còmo se transmiten es
+    fundamental para establecer medidas de prevencion. Los coronavirus son virus de transmision aerea. Se transmiten por
+    vía respiratoria a través de las gotas que producen los portadores cuando tosen, estornudan o hablan. Cada vez son
+    más las evidencias de que también puede producirse una transmisión aérea a través de aerosoles.</string>
+    <string name="TIgeneraldesc2">´´ El 70 por ciento de los medicamentos utilizados para el tratamiento del covid-19, en el
+    pais, fueron genéricos, asegura Luis Guillermo Jiménez, director científico del laboratorio La Santé.´´</string>
+    <string name="comentario2">´´ Recordemos que la red pública de salud tiene la obligacion de comprar medicamentos
+    genéricos, por ahí, pueda que exista un mayor requerimiento de este tipo de medicamentos, dice Miguel Palacios Medina,
+    director ejecutivo de la Asociación de Laboratorios Farmacéuticos Ecuatorianos ALFE.´´</string>
+    <string name="TIgeneraldesc3">Descripcion 3</string>
+    <string name="TIgeneraldesc4">Descripcion 4</string>
+
+    <!-- String de Card View Tratamiento / Hipertenso -->
+    <string name="title_activity_tratamiento_instrucciones_hipertenso">
+        TratamientoInstruccionesHipertenso
+    </string>
+    <string name="TIhpertenso1">TratamientoHipertenso1</string>
+    <string name="TIhpertenso2">TratamientoHipertenso2</string>
+    <string name="TIhpertenso3">TratamientoHipertenso3</string>
+    <string name="TIhpertenso4">TratamientoHipertenso4</string>
+    <string name="TIhipertensodesc1">Descripcion 1</string>
+    <string name="TIhipertensodesc2">Descripcion 2</string>
+    <string name="TIhipertensodesc3">Descripcion 3</string>
+    <string name="TIhipertensodesc4">Descripcion 4</string>
+
+    <!-- String de Card View Tratamiento / Tuberculosis -->
+    <string name="title_activity_tratamiento_instrucciones_tuberculosis">
+        TratamientoInstruccionesTuberculosis
+    </string>
+    <string name="TItuberculosis1">TratamientoHipertenso1</string>
+    <string name="TItuberculosis2">TratamientoHipertenso2</string>
+    <string name="TItuberculosis3">TratamientoHipertenso3</string>
+    <string name="TItuberculosis4">TratamientoHipertenso4</string>
+    <string name="TItuberculosisdesc1">Descripcion 1</string>
+    <string name="TItuberculosisdesc2">Descripcion 2</string>
+    <string name="TItuberculosisdesc3">Descripcion 3</string>
+    <string name="TItuberculosisdesc4">Descripcion 4</string>
+
+    <!-- String de Card View Recuperacion / Embarazo -->
+    <string name="title_activity_recuperacion_instrucciones_embarazo">
+        RecuperacionInstruccionesEmbarazo
+    </string>
+    <string name="RIEmbarazo1">TratamientoHipertenso1</string>
+    <string name="RIEmbarazo2">TratamientoHipertenso2</string>
+    <string name="RIEmbarazo3">TratamientoHipertenso3</string>
+    <string name="RIEmbarazo4">TratamientoHipertenso4</string>
+    <string name="RIembarazodesc1">Descripcion 1</string>
+    <string name="RIembarazodesc2">Descripcion 2</string>
+    <string name="RIembarazodesc3">Descripcion 3</string>
+    <string name="RIembarazodesc4">Descripcion 4</string>
+
+    <!-- String de Card View Recuperacion / General -->
+    <string name="title_activity_recuperacion_instrucciones_general">
+        RecuperacionInstruccionesGeneral
+    </string>
+    <string name="RIGeneral1">TratamientoHipertenso1</string>
+    <string name="RIGeneral2">TratamientoHipertenso2</string>
+    <string name="RIGeneral3">TratamientoHipertenso3</string>
+    <string name="RIGeneral4">TratamientoHipertenso4</string>
+    <string name="RIgeneraldesc1">Descripcion 1</string>
+    <string name="RIgeneraldesc2">Descripcion 2</string>
+    <string name="RIgeneraldesc3">Descripcion 3</string>
+    <string name="RIgeneraldesc4">Descripcion 4</string>
+
+    <!-- String de Card View Recuperacion / Hipertencion -->
+    <string name="title_activity_recuperacion_instrucciones_hipertencion">
+        RecuperacionInstruccionesHipertencion
+    </string>
+    <string name="RIHipertension1">TratamientoHipertenso1</string>
+    <string name="RIHipertension2">TratamientoHipertenso2</string>
+    <string name="RIHipertension3">TratamientoHipertenso3</string>
+    <string name="RIHipertension4">TratamientoHipertenso4</string>
+    <string name="RIhipertensiondesc1">Descripcion 1</string>
+    <string name="RIhipertensiondesc2">Descripcion 2</string>
+    <string name="RIhipertensiondesc3">Descripcion 3</string>
+    <string name="RIhipertensiondesc4">Descripcion 4</string>
+
+    <!-- String de Card View Recuperacion / Tuberculosis -->
+    <string name="title_activity_recuperacion_instrucciones_tuberculosis">
+        RecuperacionInstruccionesTuberculosis
+    </string>
+    <string name="RITuberculosis1">TratamientoHipertenso1</string>
+    <string name="RITuberculosis2">TratamientoHipertenso2</string>
+    <string name="RITuberculosis3">TratamientoHipertenso3</string>
+    <string name="RITuberculosis4">TratamientoHipertenso4</string>
+    <string name="RItuberculosisdesc1">Descripcion 1</string>
+    <string name="RItuberculosisdesc2">Descripcion 2</string>
+    <string name="RItuberculosisdesc3">Descripcion 3</string>
+    <string name="RItuberculosisdesc4">Descripcion 4</string>
+
+    <!-- String de pantalla de Acerca De -->
+    <string name="AcercaDescripcion">La aplicacíon es desarrollada para mostrar todo el proceso de personas que padecieron el
+    nuevo virus del covid-19, con el fin de hacer de conocimiento publico, desde los sintomas hasta la recuperacion, dandoles a
+    conocer a los usuarios lo que se podria hacer segun su caso.</string>
+
+    <string name="GargaraDesc">El virus dura entre 14 a 20 días de incubación en la garganta, por eso es ahí que debemos de combatirle, la recomendación
+    es hacer gárgaras con agua que este bien tibia mezclada lo mas que usted pueda aguantar con una cucharada de sal y el zumo de
+    1 limón. Lo que esto hace es no permitir que el mal llega hasta la garganta y afecte los pulmones.
+    </string>
+
+    <string name="LimonaDesc">Tanto el limón como el jengibre tienen propiedades que ayudan a fortalecer el SISTEMA INMUNE, combatiendo los resfriados y
+        enfermedades respiratorias como gripe y tos.
+    </string>
+
+    <string name="EvapoDesc">El eucalipto es un producto usado en tratamientos para combatir la tos, el asma, la bronquitis y otras
+        afecciones de las vías respiratorias. Además, previene infecciones respiratorias producidas por el virus de la influenza y se
+        ha comprobado que tiene características antibacterianas y fungicidas.
+    </string>
+
+</resources>

@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.example.jandr.prueba"
+    android:installLocation="preferExternal">
+
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".VentanaProductos.Gargaras"
+            android:theme="@style/AppTheme.TemaPopup">
+        </activity>
+        <activity android:name=".VentanaProductos.Evaporizacion"
+            android:theme="@style/AppTheme.TemaPopup"/>
+        <activity
+            android:name=".VentanaProductos.Limonada"
+            android:theme="@style/AppTheme.TemaPopup" />
+        <activity
+            android:name=".RecuperacionTuberculosis.RecuperacionInstruccionesTuberculosis"
+            android:label="@string/title_activity_recuperacion_instrucciones_tuberculosis"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".RecuperacionHipertension.RecuperacionInstruccionesHipertencion"
+            android:label="@string/title_activity_recuperacion_instrucciones_hipertencion"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".RecuperacionGeneral.RecuperacionInstruccionesGeneral"
+            android:label="@string/title_activity_recuperacion_instrucciones_general"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".RecuperacionEmbarazo.RecuperacionInstruccionesEmbarazo"
+            android:label="@string/title_activity_recuperacion_instrucciones_embarazo"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".TratamientoTuberculosis.TratamientoInstruccionesTuberculosis"
+            android:label="@string/title_activity_tratamiento_instrucciones_tuberculosis"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".TratamientoHipertenso.TratamientoInstruccionesHipertenso"
+            android:label="@string/title_activity_tratamiento_instrucciones_hipertenso"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".TratamientoGeneral.TratamientoInstruccionesGeneral"
+            android:label="@string/title_activity_tratamiento_instrucciones_general"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".TratamientoEmbarazada.TratamientoInstruccionesEmbarazada"
+            android:label="@string/title_activity_tratamiento_instrucciones_embarazada"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".VentanasAyuda.ventanaAyuda1"
+            android:theme="@style/AppTheme.TemaPopup" />
+        <activity
+            android:name=".SintomasHipertenso.InstruccionesHipertenso"
+            android:label="@string/title_activity_instrucciones_hipertenso"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".SintomasTuberculosis.InstruccionesTuberculosis"
+            android:label="@string/title_activity_instrucciones_tuberculosis"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Generales.InsttuccionesGenerales"
+            android:label="@string/title_activity_insttucciones_generales"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Fragmentos.Sintomas.InstruccionesActivity"
+            android:label="@string/title_activity_instrucciones"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name=".SplasLaunch">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name"
+            android:theme="@style/AppTheme.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+    </application>
+
+</manifest>
